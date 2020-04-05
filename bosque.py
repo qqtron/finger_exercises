@@ -4,6 +4,9 @@
 Created on Sat Apr  4 21:22:05 2020
 
 @author: pablosanchez
+
+
+pedazo de mierda
 """
 
 
